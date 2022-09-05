@@ -1,1 +1,1 @@
-# tick_tack_toe.py
+a gui based tick ksck toe game
